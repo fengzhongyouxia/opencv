@@ -1,3 +1,4 @@
+# 参考：http://blog.csdn.net/wc781708249/article/details/78502807
 # 执行命令 docker build -t opencv:v1 .
 
 FROM ubuntu:16.04
